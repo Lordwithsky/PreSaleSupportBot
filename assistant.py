@@ -1,4 +1,4 @@
-import opena
+import openai
 from flask import Flask, request, jsonify
 import os
 
